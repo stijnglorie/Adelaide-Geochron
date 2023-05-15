@@ -1,7 +1,7 @@
 ---
-title: "Allan Lab - Home"
+title: "Adelaide Geochronology - Home"
 layout: homelay
-excerpt: "Allan Lab at Leiden University."
+excerpt: "Adelaide Geochronology at The University of Adelaide."
 sitemap: false
 permalink: /
 ---
