@@ -2,9 +2,10 @@
   photo: Milan1.jpg
   info: Associate Professor - Academic Lead
   email: stijn.glorie@adelaide.edu.au
-  number_educ: 5
+  number_educ: 3
   education1: PhD in Geology - University of Ghent (Belgium)
-  education4: <a href="https://researchers.adelaide.edu.au/profile/stijn.glorie>
+  education2: Main role: Leading development and application of laser-ablation geo- and thermochronology (Lu-Hf, U-Pb, Rb-Sr, Re-Os, fission track) 
+  education3: <a href="https://researchers.adelaide.edu.au/profile/stijn.glorie>Reseaercher Profile</a>
  
 - name: Sarah Gilbert
   photo: Jacky.jpg
@@ -12,86 +13,73 @@
   email: sarah.gilbert@adelaide.edu.au
   number_educ: 3
   education1: PhD in Geology - University of Tasmania
-  education3: <a https://researchers.adelaide.edu.au/profile/sarah.gilbert>
+  education2: Main role: Running and managment of the Laser-ablation inductively-coupled- plasma mass-spectrometery facility / co-lead geochronology methods development
+  education3: <a https://researchers.adelaide.edu.au/profile/sarah.gilbert>Reseaercher Profile</a>
 
-- name: Jiasen Niu
+- name: Martin Hand
   photo: Jiasen.png
-  info: Postdoc, started Oct 2020
-  email: niu@physics.leidenuniv.nl
-  number_educ: 2
-  education1: PhD with <a href="http://www2.phy.pku.edu.cn/~xilin/group-members.html">Xi Lin</a> and <a href="http://faculty.pku.edu.cn/JianWangGroup/en/zhym/25393/list/index.htm">Jian Wei</a>, Peking University
-  education2: BSc Jilin University
+  info: Professor
+  email: martin.hand@adelaide.edu.au
+  number_educ: 3
+  education1: 
+  education2: Main role: Experimentation and application of geochronology and petrochronology to metamorphic geology / tectonics
+  education3: <a https://researchers.adelaide.edu.au/profile/martin.hand>Reseaercher Profile</a>
 
-- name: Jinwon Lee
+- name: Carl Spandler
   photo: Jinwon.jpg
-  info: Postdoc, started July 2021
-  email: jwlee0421@postech.ac.kr
-  number_educ: 2
-  education1: PhD with <a href="https://caldes.ibs.re.kr/html/caldes_en/">Han Woong Yeom</a> Pohang University of Science and Technology (POSTECH)
-  education2: BSc Pohang University of Science and Technology (POSTECH)
-
-- name: Tjerk Benschop
-  photo: tjeruk.jpg
-  info: PhD Student, started November 2018
-  email: benschop@physics.leidenuniv.nl
-  number_educ: 2
-  education1: Master Leiden University with Milan Allan
-  education2: Casimir PhD fellowship
-  education3:
-  education4:
-
-- name: Amber Mozes
-  photo: Amber.png
-  info: PhD Student, started September 2021
-  email: b
-  number_educ: 2
-  education1: Master Applied Physics, TU Delft
-  education2: Casimir/Nanofront PhD fellowship
-  education3:
-  education4:
-
-- name: Maialen Ortego Larrazabal
-  photo: Maialen.png
-  info: PhD Student within a collaboration with the <a href="http://www.ingmarswart.nl">Swart Lab</a>
-  email: b
-  number_educ: 2
-  education1: Master Leiden University
-  education2: BSc, University of the Basque Country
-  education3:
-  education4:
-
-- name: Kees van Oosten
-  photo: DSC_1032.JPG
-  info: FFine mechanical engineer (also associated with the FMD)
-  email: Oosten@fmd.physics.leidenuniv.nl
-  number_educ: 2
-  education1: Leidse instrumentmakers School
-  education2: Associate degree Mechanical Engineering, Hogeschool Arnhem Nijmegen
-
-- name: Hugo van Bohemen
+  info: Associate Professor
+  email: carl.spandler@adelaide.edu.au
+  number_educ: 3
+  education1: 
+  education2: Main role: Experimentation and application of geochronology for critical minerals exploration / characterization
+  education3: <a https://researchers.adelaide.edu.au/profile/carl.spandler>Reseaercher Profile</a>
+  
+- name: Jacob Mulder
   photo: hugo.jpg
-  info: Fine mechanical engineer (also associated with the FMD)
-  email: h.s.m.van.bohemen@physics.leidenuniv.nl
-  number_educ: 1
-  education1: Leidse Instrumentmakers School
-  education2:
+  info: Lecturer
+  email: 
+  number_educ: 3
+  education1: PhD in Geology - University of Tasmania
+  education2: Main role: Application of laser-ablation geochronology for tectonics
+  education3: <a https://researchers.adelaide.edu.au/profile/jacob.mulder>Reseaercher Profile</a>
 
-- name: Koen M Bastiaans
-  photo: Koen.jpg
-  info: NWO Veni fellow, collaborating with us and stationed in the <a href="https://ottelab.tudelft.nl">Otte Lab</a>
-  email: Bastiaans@Physics.LeidenUniv.nl
-  number_educ: 4
-  education1: Postdoc in the Otte Lab, Leiden University
-  education2: Postdoc in the Allan Lab, Leiden University
-  education3: PhD with Milan Allan, Leiden University (started Sep 2015)
-  education4: Master Leiden University with Milan Allan
+- name: Alexander Simpson
+  photo: tjeruk.jpg
+  info: Post-doctoral researcher (currently @ <a https://www.bgs.ac.uk/>British Geological Survey</a>)
+  email: 
+  number_educ: 2
+  education1: PhD in Geology - The University of Adelaide
+  education2: Main role: Development of laser ablation Lu-Hf geochronology
+ 
+- name: Jarred Lloyd
+  photo: Amber.png
+  info: Post-doctoral researcher
+  email: 
+  number_educ: 2
+  education1: PhD in Geology - The University of Adelaide
+  education2: Main role: Implementation and refinement of laser ablation Rb-Sr geochronology
+ 
+- name: Renee Tamblyn
+  photo: Maialen.png
+  info: Post-doctoral researcher (currently @ <a https://www.unibe.ch/>University of Bern</a>)
+  email: 
+  number_educ: 2
+  education1: PhD in Geology - The University of Adelaide
+  education2: Main role: Development of laser ablation Re-Os geochronology
 
-- name: "This could be you !"
-  photo: rock.jpg
-  info: See <a href="http://www.allanlab.org/vacancies">openings</a> for more info
-  email: milan.allan@gmail.com
-  number_educ: 0
-  education1:
-  education2:
-  education3:
-  education4:
+- name: Jie Yu
+  photo: DSC_1032.JPG
+  info: Post-doctoral researcher
+  email: 
+  number_educ: 2
+  education1: PhD in Geology - The University of Adelaide
+  education2: Main role: Development of laser ablation epidote / allanite Lu-Hf geochronology
+  
+- name: Adam Abersteiner
+  photo: DSC_1032.JPG
+  info: Post-doctoral researcher
+  email: 
+  number_educ: 2
+  education1: PhD in Geology - University of Tasmania
+  education2: Main role: Application of laser ablation geochronology to date (ultra)mafic rocks / kimberlites
+  
